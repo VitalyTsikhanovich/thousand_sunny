@@ -581,3 +581,10 @@ select {
   left: 90px;
   top: 217px;
 }
+
+.section_4-block-2-img-text-btn {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-left: 30px;
+}
