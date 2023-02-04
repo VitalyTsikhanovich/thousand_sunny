@@ -349,7 +349,7 @@ select {
   width: 120px;
   height: 56px;
   left: 0px;
-  top: 337px;
+  top: 338px;
   right: 0px;
   bottom: 0px;
   display: flex;
@@ -561,13 +561,13 @@ select {
   height: 32px;
   position: relative;
   top: 247px;
-  right: 210px;
+  right: 145px;
 }
 
 .section_4-block-2-element2 {
   position: relative;
   bottom: 245px;
-  left: 200px;
+  left: 270px;
   z-index: 0;
 }
 
