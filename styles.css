@@ -750,10 +750,17 @@ select {
 .footer_social {
   width: 249px;
   height: 23px;
-  margin-top: 100px;
+  margin-top: 30px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-left: 645px;
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.footer_line {
+  margin-left: 191px;
+  margin-top: 69px;
+  border-bottom: 1px solid #c4c4c4;
+  width: 1221px;
+  height: 0.6px;
 }
